@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "NP문제에 몰두하는 개."
+title                    : "NP문제에 몰두하는 개발자입니다."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "판교Brown"
