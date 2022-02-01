@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "우리 주변의 NP문제에 몰두하는 엔지니어입니다."
+title                    : "주변의 NP문제에 몰두하는 엔지니어입니다."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Brown"
-description              : "#엔지니어#조합최적화\n#메타휴리스틱#NP#물류도메인"
+name                     : "판교Brown"
+description              : "#개발자<br>#NP문제<br>#메타휴리스틱<br>#강화학습<br>"
 url                      : "https://drimdrim2002.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
