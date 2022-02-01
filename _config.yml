@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "조합최적화에 몯두하는 엔지니어입니다."
+title                    : "**조합최적화**에 몰두하는 엔지니어입니다."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "손혁준"
+name                     : "Brown"
 description              : "#엔지니어#조합최적화#메타휴리스틱#"
 url                      : "https://drimdrim2002.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "손혁준"
+  name             : "Brown"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**조합최적화** 에 몰두하는 엔지니어"
-  location         : "Somewhere"
-  email            :
+  location         : "Pangyo"
+  email            : "sindeaf@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
