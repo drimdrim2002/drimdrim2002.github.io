@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "현실적인 NP-Problem에 몰두하는 엔지니어입니다."
+title                    : "우리 주변의 NP문제에 몰두하는 엔지니어입니다."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Brown"
@@ -104,13 +104,13 @@ analytics:
 author:
   name             : "Brown"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "#엔지니어#조합최적화#메타휴리스틱#NP#물류도메인"
-  location         : "Pangyo"
-  email            : "sindeaf@gmail.com"
+  bio              : "#엔지니어#조합최적화\n#메타휴리스틱#NP\n#물류"
+  location         : "판교어딘가"
+  email            : "drimdrim2002@naver.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:sindeaf@email.com"
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope-square"
+#       url: "mailto:drimdrim2002@naver.com"
 #     - label: "Website"
 #       icon: "fas fa-fw fa-link"
 #       # url: "https://your-website.com"
