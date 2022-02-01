@@ -20,7 +20,7 @@ title                    : "현실적인 NP-Problem에 몰두하는 엔지니어
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Brown"
-description              : "#엔지니어#조합최적화#메타휴리스틱#NP#물류도메인"
+description              : "#엔지니어#조합최적화\n#메타휴리스틱#NP#물류도메인"
 url                      : "https://drimdrim2002.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
