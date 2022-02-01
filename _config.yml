@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "NP문제에 몰두하는 ."
+title                    : "NP문제에 몰두하는 개."
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "판교Brown"
@@ -102,7 +102,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Brown"
+  name             : "판교Brown"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "#엔진개발자<br>#NP문제<br>n#메타휴리스틱 #강화학습<br>#데이터분석"
   location         : "판교어딘가"
