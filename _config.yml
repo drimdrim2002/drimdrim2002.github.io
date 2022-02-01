@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "판교Brown"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "#엔진개발자<br>#NP문제<br>n#메타휴리스틱 #강화학습<br>#데이터분석"
+  bio              : "#엔진개발자<br>#NP문제<br>#메타휴리스틱<br>#강화학습<br>#추천알고리즘"
   location         : "판교어딘가"
   email            : "drimdrim2002@naver.com"
   links:
